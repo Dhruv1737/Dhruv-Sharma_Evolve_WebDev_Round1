@@ -55,20 +55,9 @@ Ensuring consistent layouts across devices using only CSS.
 🔗 Correct File & PDF Linking
 Managing relative paths so resources work correctly after deployment.
 
-🎨 UI/UX Design from Scratch
-Creating a visually appealing and readable interface without UI libraries.
+🎨 UI/UX Design 
+It took me time to understand which UI will look perfect and match with the EV theme.
 
 🌐 Deployment Configuration
 Making sure all assets load correctly on Netlify in production.
 
-📚 What I Learned
-
-Writing clean and semantic HTML
-
-Advanced CSS for responsiveness and layout
-
-Improving UI/UX design sense
-
-Hosting and deploying real-world projects
-
-Managing projects using Git and GitHub
